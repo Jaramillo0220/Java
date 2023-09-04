@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Menudeoperaciones01",
+            "request": "launch",
+            "mainClass": "Menudeoperaciones01",
+            "projectName": "Java_b4b4bbb9"
+        },
+        {
+            "type": "java",
+            "name": "prueba",
+            "request": "launch",
+            "mainClass": "prueba",
+            "projectName": "Java_b4b4bbb9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MenuDeOperaciones01",
+            "request": "launch",
+            "mainClass": "MenuDeOperaciones01",
+            "projectName": "Java_b4b4bbb9"
+        },
+        {
+            "type": "java",
+            "name": "MenuDeTemperaturas02",
+            "request": "launch",
+            "mainClass": "MenuDeTemperaturas02",
+            "projectName": "Java_b4b4bbb9"
+        }
+    ]
+}
